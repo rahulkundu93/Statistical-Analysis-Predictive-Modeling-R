@@ -1,0 +1,5 @@
+Comparison,Test,Statistic,P_value,Decision_at_0.05
+Gender vs survival,Chi-square,260.71702016732104,1.1973570627755645e-58,Reject H0
+Passenger class vs survival,Chi-square,102.88898875696056,4.549251711298793e-23,Reject H0
+Age among survivors vs non-survivors,Welch two-sample t-test,-1.8966053920256696,0.05830915997775747,Fail to reject H0
+Fare among survivors vs non-survivors,Mann-Whitney U,129951.5,4.553477179250237e-22,Reject H0

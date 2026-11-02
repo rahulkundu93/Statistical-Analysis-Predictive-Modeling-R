@@ -1,0 +1,1 @@
+Reference metrics are calculated from the included cleaned dataset with an 80/20 stratified split and seed 42. Re-run the R script in RStudio to generate R-native outputs and verify package-version differences.

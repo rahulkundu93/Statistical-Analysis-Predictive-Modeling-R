@@ -1,0 +1,15 @@
+Titanic Logistic Regression Classification
+80% stratified training / 20% test; random_state=42
+5-fold stratified CV on training data
+
+Accuracy: 0.8045
+Precision: 0.7931
+Recall: 0.6667
+F1-score: 0.7244
+ROC-AUC: 0.8432
+Mean 5-fold CV ROC-AUC: 0.8528
+SD 5-fold CV ROC-AUC: 0.0217
+
+Confusion matrix (rows actual 0/1, columns predicted 0/1):
+[[98 12]
+ [23 46]]
