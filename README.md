@@ -44,7 +44,7 @@ These are reference results calculated on the supplied cleaned dataset with a st
 `tidyverse`, `caret`, `pROC`, `car`, `broom`, `corrplot`
 
 ## Author
-[Enter your full name]
+Rahul Kundu
 
 ## Note
 The report contains reference results generated from the included data. Execute the R script in RStudio and verify its outputs before final submission. This analysis is predictive and associative; it does not establish causation.
